@@ -80,7 +80,8 @@ nand(nandgate,a,b);
 nor(norgate,a,b);
 // type code for XOR Gate
 // type code for XNOR Gate
-endmodule```
+endmodule
+```
 
 **Logic symbol & Truthtable**
 <img width="720" height="1079" alt="image" src="https://github.com/user-attachments/assets/15121f4f-5463-4021-adf4-fdcd59037621" />
